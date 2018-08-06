@@ -1,5 +1,5 @@
-puts "what is your favorite color"
+puts "what is your favorite food"
 
 eat = gets.chomp 
 
-puts "my favorite color is #{eat}"
+puts "my favorite food is #{eat}"
