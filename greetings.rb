@@ -1,5 +1,5 @@
 puts "what is your favorite food"
 
-eat = gets.chomp 
+eat = gets
 
 puts "my favorite food is #{eat}"
